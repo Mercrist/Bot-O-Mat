@@ -77,11 +77,3 @@ Be creative and have fun! Use this list or create your own features.
 To run the project, first install the required packages listed on the `requirements.txt` file. Make sure you're on the project's directory and run: `pip install -r requirements.txt`. It's also worth noting that some libraries, such as `Enum`, behave differently across different versions of Python, so ensure that the currently installed version is the latest (I ran this with 3.10.2). The Python version can be verified via  `python --version`.
 
 Finally, once the dependencies have been configured correctly, run `bot_o_mat.py` either from an IDE, such as VSCode, or from the terminal. `> bot_o_mat.py` on Windows or `$ python bot_o_mat.py` on Bash.
-
-
-## Privacy Guidelines
-Due to the creative nature of this project, please do not post the prompt or your solution publicly. Feel free to privately fork it to your personal GitHub or download it for future reference, as this workspace is cleared every few months.
-
-## Authors
-- Scott Hoffman <https://github.com/scottshane>
-- Olivia Osby <https://github.com/oosby>
